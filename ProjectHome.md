@@ -1,0 +1,1 @@
+Aam Aadmi Party since its inception was always matter of discussion amongst youth some may like it some may hate it but this would be a fun thing to implement it in java just for fun.
